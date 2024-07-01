@@ -1,2 +1,2 @@
 # Blum
-SOFT BLUM 
+СОФТ ДЛЯ BLUM
